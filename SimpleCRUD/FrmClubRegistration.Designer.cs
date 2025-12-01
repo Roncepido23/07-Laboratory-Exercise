@@ -254,6 +254,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tbStudentID);
             this.Controls.Add(this.lblStudentID);
+            this.DoubleBuffered = true;
             this.Name = "FrmClubRegistration";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.FrmClubRegistration_Load);

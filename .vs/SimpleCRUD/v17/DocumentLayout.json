@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\oncepido.257554\\source\\repos\\07_Laboratory_Exercise_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|C:\\Users\\oncepido.257554\\source\\repos\\07_Laboratory_Exercise_1\\simplecrud\\clubregistrationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|solutionrelative:simplecrud\\clubregistrationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|C:\\Users\\oncepido.257554\\source\\repos\\07_Laboratory_Exercise_1\\simplecrud\\frmclubregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|solutionrelative:simplecrud\\frmclubregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|C:\\Users\\oncepido.257554\\source\\repos\\07_Laboratory_Exercise_1\\simplecrud\\frmclubregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|solutionrelative:simplecrud\\frmclubregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|C:\\Users\\oncepido.257554\\source\\repos\\07_Laboratory_Exercise_1\\simplecrud\\frmupdatemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|solutionrelative:simplecrud\\frmupdatemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|C:\\Users\\oncepido.257554\\source\\repos\\07_Laboratory_Exercise_1\\simplecrud\\frmclubregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|solutionrelative:simplecrud\\frmclubregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|c:\\users\\oncepido.257554\\source\\repos\\07_laboratory_exercise_1\\simplecrud\\clubregistrationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|solutionrelative:simplecrud\\clubregistrationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|c:\\users\\oncepido.257554\\source\\repos\\07_laboratory_exercise_1\\simplecrud\\frmupdatemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|C:\\Users\\oncepido.257554\\source\\repos\\07_Laboratory_Exercise_1\\simplecrud\\frmupdatemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|solutionrelative:simplecrud\\frmupdatemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|C:\\Users\\oncepido.257554\\source\\repos\\07_Laboratory_Exercise_1\\simplecrud\\frmclubregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E3AA05A-8959-4FB5-98F4-A47261B595DB}|SimpleCRUD\\SimpleCRUD.csproj|solutionrelative:simplecrud\\frmclubregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 278,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FrmUpdateMember.cs",
               "DocumentMoniker": "C:\\Users\\oncepido.257554\\source\\repos\\07_Laboratory_Exercise_1\\SimpleCRUD\\FrmUpdateMember.cs",
               "RelativeDocumentMoniker": "SimpleCRUD\\FrmUpdateMember.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ClubRegistrationQuery.cs",
               "DocumentMoniker": "C:\\Users\\oncepido.257554\\source\\repos\\07_Laboratory_Exercise_1\\SimpleCRUD\\ClubRegistrationQuery.cs",
               "RelativeDocumentMoniker": "SimpleCRUD\\ClubRegistrationQuery.cs",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FrmUpdateMember.cs [Design]",
               "DocumentMoniker": "C:\\Users\\oncepido.257554\\source\\repos\\07_Laboratory_Exercise_1\\SimpleCRUD\\FrmUpdateMember.cs",
               "RelativeDocumentMoniker": "SimpleCRUD\\FrmUpdateMember.cs",
@@ -72,20 +72,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FrmClubRegistration.cs",
               "DocumentMoniker": "C:\\Users\\oncepido.257554\\source\\repos\\07_Laboratory_Exercise_1\\SimpleCRUD\\FrmClubRegistration.cs",
               "RelativeDocumentMoniker": "SimpleCRUD\\FrmClubRegistration.cs",
               "ToolTip": "C:\\Users\\oncepido.257554\\source\\repos\\07_Laboratory_Exercise_1\\SimpleCRUD\\FrmClubRegistration.cs",
               "RelativeToolTip": "SimpleCRUD\\FrmClubRegistration.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA7wCMAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCMAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T11:42:13.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FrmClubRegistration.cs [Design]",
               "DocumentMoniker": "C:\\Users\\oncepido.257554\\source\\repos\\07_Laboratory_Exercise_1\\SimpleCRUD\\FrmClubRegistration.cs",
               "RelativeDocumentMoniker": "SimpleCRUD\\FrmClubRegistration.cs",
