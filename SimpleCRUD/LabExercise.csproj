@@ -62,7 +62,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClubRegistrationQuery.cs" />
-    <Compile Include="DatabaseConnection.cs" />
     <Compile Include="FrmClubRegistration.cs">
       <SubType>Form</SubType>
     </Compile>

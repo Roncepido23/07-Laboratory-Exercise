@@ -27,8 +27,8 @@ namespace SimpleCRUD
             cbGender.Items.Add("Male");
             cbGender.Items.Add("Female");
 
-            cbProgram.Items.Add("IT");
-            cbProgram.Items.Add("CS");
+            cbProgram.Items.Add("BSIT");
+            cbProgram.Items.Add("BSCS");
         }
 
         public void SetData(int id, int studentId, string lastName, string firstName, string middleName, int age, string gender, string program)
@@ -51,7 +51,7 @@ namespace SimpleCRUD
 
         private void btnConfirm_Click(object sender, EventArgs e)
         {
-            using (var connection = new SqlConnection(DatabaseConnection.ConnectionString))
+            using (var connection = new SqlConnection(@"Server=(LocalDB)\MSSQLLocalDB;Integrated Security=True;AttachDbFilename=C:\Users\oncepido.257554\source\repos\07_Laboratory_Exercise_1\SimpleCRUD\mydb.mdf;"))
             {
                 connection.Open();
 

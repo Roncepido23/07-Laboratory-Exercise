@@ -20,7 +20,7 @@ namespace SimpleCRUD
 
         public DataTable dataTable;
         public BindingSource bindingSource;
-        private string connectionString = @"Server=(LocalDB)\MSSQLLocalDB;Integrated Security=True;AttachDbFilename=C:\Users\espinola.253086\source\repos\SimpleCRUD\SimpleCRUD\mydb.mdf;";
+        private string connectionString = @"Server=(LocalDB)\MSSQLLocalDB;Integrated Security=True;AttachDbFilename=C:\Users\oncepido.257554\source\repos\07_Laboratory_Exercise_1\SimpleCRUD\mydb.mdf;";
         public string _FirstName, MiddleName, _LastName, _Gender, _Program, _Age;
 
         public void DisplayList()

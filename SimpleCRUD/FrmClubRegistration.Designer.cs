@@ -202,7 +202,7 @@
             this.btnRegister.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btnRegister.Location = new System.Drawing.Point(495, 31);
             this.btnRegister.Name = "btnRegister";
-            this.btnRegister.Size = new System.Drawing.Size(89, 30);
+            this.btnRegister.Size = new System.Drawing.Size(102, 41);
             this.btnRegister.TabIndex = 15;
             this.btnRegister.Text = "Register";
             this.btnRegister.UseVisualStyleBackColor = false;
@@ -213,9 +213,9 @@
             this.btnUpdate.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnUpdate.Font = new System.Drawing.Font("Impact", 12F);
             this.btnUpdate.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.btnUpdate.Location = new System.Drawing.Point(495, 67);
+            this.btnUpdate.Location = new System.Drawing.Point(495, 99);
             this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(89, 32);
+            this.btnUpdate.Size = new System.Drawing.Size(102, 44);
             this.btnUpdate.TabIndex = 16;
             this.btnUpdate.Text = "Update";
             this.btnUpdate.UseVisualStyleBackColor = false;
@@ -226,9 +226,9 @@
             this.btnRefreh.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnRefreh.Font = new System.Drawing.Font("Impact", 12F);
             this.btnRefreh.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.btnRefreh.Location = new System.Drawing.Point(495, 106);
+            this.btnRefreh.Location = new System.Drawing.Point(621, 271);
             this.btnRefreh.Name = "btnRefreh";
-            this.btnRefreh.Size = new System.Drawing.Size(89, 37);
+            this.btnRefreh.Size = new System.Drawing.Size(94, 43);
             this.btnRefreh.TabIndex = 17;
             this.btnRefreh.Text = "Refresh";
             this.btnRefreh.UseVisualStyleBackColor = false;
@@ -241,7 +241,7 @@
             this.BackColor = System.Drawing.SystemColors.Highlight;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(609, 414);
+            this.ClientSize = new System.Drawing.Size(743, 414);
             this.Controls.Add(this.btnRefreh);
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.btnRegister);
