@@ -55,7 +55,7 @@
             this.lblStudentID.AutoSize = true;
             this.lblStudentID.BackColor = System.Drawing.Color.Transparent;
             this.lblStudentID.Font = new System.Drawing.Font("Impact", 12F);
-            this.lblStudentID.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.lblStudentID.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.lblStudentID.Location = new System.Drawing.Point(9, 15);
             this.lblStudentID.Name = "lblStudentID";
             this.lblStudentID.Size = new System.Drawing.Size(79, 20);
@@ -81,7 +81,7 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Impact", 12F);
-            this.label1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label1.Location = new System.Drawing.Point(9, 64);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(78, 20);
@@ -100,7 +100,7 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Impact", 12F);
-            this.label2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label2.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label2.Location = new System.Drawing.Point(9, 124);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(35, 20);
@@ -119,7 +119,7 @@
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Impact", 12F);
-            this.label3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label3.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label3.Location = new System.Drawing.Point(142, 123);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(56, 20);
@@ -138,7 +138,7 @@
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Impact", 12F);
-            this.label4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label4.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label4.Location = new System.Drawing.Point(142, 64);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(81, 20);
@@ -166,7 +166,7 @@
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Impact", 12F);
-            this.label5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label5.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label5.Location = new System.Drawing.Point(290, 15);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(65, 20);
@@ -178,7 +178,7 @@
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Impact", 12F);
-            this.label6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label6.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label6.Location = new System.Drawing.Point(290, 64);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(94, 20);
@@ -189,7 +189,7 @@
             // 
             this.dgvMembers.BackgroundColor = System.Drawing.SystemColors.ControlLightLight;
             this.dgvMembers.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvMembers.Location = new System.Drawing.Point(13, 185);
+            this.dgvMembers.Location = new System.Drawing.Point(12, 194);
             this.dgvMembers.Name = "dgvMembers";
             this.dgvMembers.Size = new System.Drawing.Size(585, 208);
             this.dgvMembers.TabIndex = 14;
@@ -197,35 +197,41 @@
             // 
             // btnRegister
             // 
+            this.btnRegister.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnRegister.Font = new System.Drawing.Font("Impact", 12F);
+            this.btnRegister.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btnRegister.Location = new System.Drawing.Point(495, 31);
             this.btnRegister.Name = "btnRegister";
             this.btnRegister.Size = new System.Drawing.Size(89, 30);
             this.btnRegister.TabIndex = 15;
             this.btnRegister.Text = "Register";
-            this.btnRegister.UseVisualStyleBackColor = true;
+            this.btnRegister.UseVisualStyleBackColor = false;
             this.btnRegister.Click += new System.EventHandler(this.btnRegister_Click);
             // 
             // btnUpdate
             // 
+            this.btnUpdate.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnUpdate.Font = new System.Drawing.Font("Impact", 12F);
+            this.btnUpdate.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btnUpdate.Location = new System.Drawing.Point(495, 67);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(89, 32);
             this.btnUpdate.TabIndex = 16;
             this.btnUpdate.Text = "Update";
-            this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.UseVisualStyleBackColor = false;
             this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnRefreh
             // 
+            this.btnRefreh.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnRefreh.Font = new System.Drawing.Font("Impact", 12F);
+            this.btnRefreh.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btnRefreh.Location = new System.Drawing.Point(495, 106);
             this.btnRefreh.Name = "btnRefreh";
             this.btnRefreh.Size = new System.Drawing.Size(89, 37);
             this.btnRefreh.TabIndex = 17;
             this.btnRefreh.Text = "Refresh";
-            this.btnRefreh.UseVisualStyleBackColor = true;
+            this.btnRefreh.UseVisualStyleBackColor = false;
             this.btnRefreh.Click += new System.EventHandler(this.btnRefreh_Click);
             // 
             // FrmClubRegistration

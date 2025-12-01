@@ -1,0 +1,13 @@
+C:\Users\oncepido.257554\Source\Repos\07_Laboratory_Exercise_1\SimpleCRUD\bin\Debug\mydb.mdf
+C:\Users\oncepido.257554\Source\Repos\07_Laboratory_Exercise_1\SimpleCRUD\bin\Debug\mydb_log.ldf
+C:\Users\oncepido.257554\Source\Repos\07_Laboratory_Exercise_1\SimpleCRUD\bin\Debug\SimpleCRUD.exe.config
+C:\Users\oncepido.257554\Source\Repos\07_Laboratory_Exercise_1\SimpleCRUD\bin\Debug\SimpleCRUD.exe
+C:\Users\oncepido.257554\Source\Repos\07_Laboratory_Exercise_1\SimpleCRUD\bin\Debug\SimpleCRUD.pdb
+C:\Users\oncepido.257554\Source\Repos\07_Laboratory_Exercise_1\SimpleCRUD\obj\Debug\LabExercise.csproj.AssemblyReference.cache
+C:\Users\oncepido.257554\Source\Repos\07_Laboratory_Exercise_1\SimpleCRUD\obj\Debug\SimpleCRUD.FrmClubRegistration.resources
+C:\Users\oncepido.257554\Source\Repos\07_Laboratory_Exercise_1\SimpleCRUD\obj\Debug\SimpleCRUD.FrmUpdateMember.resources
+C:\Users\oncepido.257554\Source\Repos\07_Laboratory_Exercise_1\SimpleCRUD\obj\Debug\SimpleCRUD.Properties.Resources.resources
+C:\Users\oncepido.257554\Source\Repos\07_Laboratory_Exercise_1\SimpleCRUD\obj\Debug\LabExercise.csproj.GenerateResource.cache
+C:\Users\oncepido.257554\Source\Repos\07_Laboratory_Exercise_1\SimpleCRUD\obj\Debug\LabExercise.csproj.CoreCompileInputs.cache
+C:\Users\oncepido.257554\Source\Repos\07_Laboratory_Exercise_1\SimpleCRUD\obj\Debug\SimpleCRUD.exe
+C:\Users\oncepido.257554\Source\Repos\07_Laboratory_Exercise_1\SimpleCRUD\obj\Debug\SimpleCRUD.pdb
